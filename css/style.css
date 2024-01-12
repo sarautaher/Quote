@@ -1,0 +1,4 @@
+.btn{background-color: blue;
+transition: background-color 1s;}
+.btn:hover{background-color: green;}
+h1 {font-size: 80px;}
